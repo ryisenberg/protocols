@@ -1,8 +1,8 @@
 # Forking and contributing to a lab Git repo on GitHub: `mjmlab/protocols` as an example
 
-This is a bit meta: a protocol to demonstrate how to contribute to the protocols. It also serves as a model for working with other lab repositories (repos).
+This is a bit meta: a protocol to demonstrate how to contribute to the protocols. It also serves as a model for working with other lab repositories.
 
-## What is a repo?
+## What is a repository/repo?
 
 A repository (repo) in a directory or folder in which `git` is tracking changes. It is an effective method for version control and to collaborate on code and documents.
 
@@ -19,26 +19,33 @@ Git is the language that facilitates the change tracking and merging. GitHub is 
 
 ## Git and GitHub Setup and Basic Commands
 
-You can use Git on your own computer without the need for GitHub.
+You can use Git on your own computer without the need for GitHub. However, since GitHub is a pretty and easy-to-use interface we will start there and then move to the command line Git interface on our computer.
 
-GitHub signup:
-1. [Sign up](https://github.com/join) for a GitHub account.
-1. [Sign up](https://education.github.com/discount_requests/new) for the GitHub educational discount.
-	- This will allow you to have private repos at no cost.
-1. Email Mark with your GitHub username so you can be invited to the [lab GitHub group](https://github.com/mjmlab).
+### GitHub signup
 
-Play with GitHub:
+1. [Sign up](https://github.com/join) for a GitHub account.  
+1. [Sign up](https://education.github.com/discount_requests/new) for the GitHub educational discount.  
+  - This will allow you to have private repos at no cost.  
+1. Email Mark with your GitHub username so you can be invited to the [lab GitHub group](https://github.com/mjmlab).  
+
+### Play with GitHub
+
 See additional resources below to complete the following steps:
+
 1. Look at the [Markdown language](https://daringfireball.net/projects/markdown/syntax), including the syntax particular for GitHub, aptly called [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/). The syntax is fairly simple, and this is widely used in GitHub documents, including our protocols.
 1. Create a repo in your account via the web interface.
 1. Make a change to the repo. This is called a "commit".
 1. View the commit history of your repo.
 
-Set Up a Text Editor on your computer: Recommend `Atom`:
-1. [Download `Atom`](https://atom.io).
-1. Install Atom (or move to `Applications` folder on Mac.
+### Set Up a Text Editor on your computer
 
-Install Git on your computer:
+Recommendation is `Atom`
+
+1. [Download `Atom`](https://atom.io).
+1. Install Atom (or move to `Applications` folder on Mac).
+
+### Install Git on your computer
+
 1. On Mac, type `git config` on the command line (e.g., `Terminal` app) and if it is not installed you will be prompted to install the `XCode command line tools`, which includes `git`.
 1. [Here is information for other platforms](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and more detailed information for Mac.
 1. Set up global Git settings (don't type the dollar signs...):
@@ -48,33 +55,34 @@ $ git config --global user.name "Your name here"
 $ git config --global user.email "your_email@example.com"
 ```
 
-1. Configure Atom to be the default text editor for Git:
+Configure Atom to be the default text editor for Git:
 
 ```
 $ git config --global core.editor "atom --wait"
 ```
 
-Play with Git:
-1. Make a directory to store your repos locally and then move into that directory:
+###Play with Git
+
+Make a directory to store your repos locally and then move into that directory:
 
 ```
 $ mkdir ~/code
 $ cd ~/code
 ```
 
-1. Clone your new GitHub repo to your computer (here I am using a repo called `testrepo`).
+Clone your new GitHub repo to your computer (here I am using a repo called `testrepo`).
 
 ```
-$ git clone https://github.com/username/testrepo.git
+$ git clone https://github.com/mandel01/testrepo.git
 ```
 
-1. Navigate into the repo directory
+Navigate into the repo directory
 
 ```
 $ cd testrepo
 ```
 
-1. Make a change to the repo using the command line.  `git add`, `git commit`, `git status`:
+Make a change to the repo using the command line.  `git add`, `git commit`, `git status`:
 
 ```
 $ touch newfile.md
@@ -90,7 +98,7 @@ Your branch is ahead of 'origin/master' by 1 commit.
 nothing to commit, working directory clean
 ```
 
-1. Push the change to the origin repo.  `git push`:
+Push the change to the origin repo.  `git push`:
 
 ```
 $ git push origin master
@@ -114,7 +122,7 @@ origin	https://github.com/mandel01/testrepo.git (push)
 Additionally, `git pull` will pull information from that GitHub remote repo to your local repo.
 
 
-1. Finally, create a repo on your computer via the command line. Here I'll create a repo in a new directory called `lovinsquid`:
+Finally, create a repo on your computer via the command line. Here I'll create a repo in a new directory called `lovinsquid`:
 
 ```
 $ cd ~/code
@@ -124,7 +132,7 @@ $ lovinsquid git init
 Initialized empty Git repository in /Users/markmandel/code/lovinsquid/.git/
 ```
 
-1. Add some files to the directory and the check the status with `git status`:
+Add some files to the directory and the check the status with `git status`:
 
 ```
 $ touch file1.md file2.md file3.md
@@ -143,7 +151,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-1. Add these files to the repo and commit them as above. Here we can use the dot `.` to commit all uncommitted files in the current directory:
+Add these files to the repo and commit them as above. Here we can use the dot `.` to commit all uncommitted files in the current directory:
 
 ```
 $ git add .
@@ -158,24 +166,24 @@ On branch master
 nothing to commit, working directory clean
 ```
 
-1. Now this directory is being tracked by Git on our computer. It can then be pushed to GitHub in the future, or never!
+Now this directory is being tracked by Git on our computer. It can then be pushed to GitHub in the future, or never!
 
-1. Some notes about local Git repos:
+### Some notes about local Git repos:
 
-	1. Subdirectories and files within a Git-tracked directory will be analyzed by commands such as `git status` but are not actually in the repo until you `git add` them. Therefore, there is no version tracking until they are added.
-	1. Use can use a [`.gitignore` file](https://help.github.com/articles/ignoring-files/) to tell Git to ignore certain classes of files/folders. You can then proceed to add all files/folders with `git add .` but Git will know to ignore the items in the `.gitignore`.
-	1. Keep Git repos separate. It is not good practice to nest a Git repo within another Git repo. 
-	1. A major benefit of Git is branches, but that will be described elsewhere (or use the Google).
+1. Subdirectories and files within a Git-tracked directory will be analyzed by commands such as `git status` but are not actually in the repo until you `git add` them. Therefore, there is no version tracking until they are added.
+1. Use can use a [`.gitignore` file](https://help.github.com/articles/ignoring-files/) to tell Git to ignore certain classes of files/folders. You can then proceed to add all files/folders with `git add .` but Git will know to ignore the items in the `.gitignore`.
+1. Keep Git repos separate. It is not good practice to nest a Git repo within another Git repo. 
+1. A major benefit of Git is branches, but that will be described elsewhere (or use the Google).
 	
-1. Other resources for Git and Github:
+Other resources for Git and Github:
 
-	- http://kbroman.org/github_tutorial/pages/resources.html
+- http://kbroman.org/github_tutorial/pages/resources.html
 	
 
 
-# Forking and cloning the protocols repo
+## Forking and cloning the protocols repo
 
-Step 1: Fork the repo to your GitHub account:
+### Fork the repo to your GitHub account:
 
 1. Go to https://github.com/mjmlab/protocols
 1. Click on "Fork".
@@ -197,7 +205,7 @@ This branch is even with mjmlab:master.
 Nope. This line means that they are the same.
 
 
-## Upstream vs Remote vs Local versions of the repo
+### Upstream vs Remote vs Local versions of the repo
 
 In this setup where there is a central lab repo, your forked repo, and (later) a local copy of the repo on your computer, we will refer to:
 
@@ -212,7 +220,7 @@ Name          | What                                | Detail
 Note that in this setup, changes made to your Local or Remote repo can be synchronized to each other using commands on the previous page, `git push` / `git pull`. For more complicated commands 
 
 
-1. Modify a lab protocol.
+### Modify a lab protocol.
 
 We noticed some typos in the "Squid Colonization" protocol. Here we are going to edit the `squid-colonization.md` Markdown file directly in GitHub. We will proceed to "commit" the changes to our repo. We will then proceed to suggest the changes to the lab repo, in a process called a "Pull Request" ("Hey lab, we request that you pull in these changes!").
 
@@ -222,32 +230,33 @@ We noticed some typos in the "Squid Colonization" protocol. Here we are going to
 1. For each change, you can use GitHub's built-in preview functionality.
 1. When you have completed the changes, Add a short commit message and (if needed) more detailed information.
 
-	Short commit message:
-	- Maximum 50 characters
-	- Use the imperative ("Change protocol" not "Changed..." or "I changed"...)
-	- No period
+##### Short commit message: e.g.: Fix formatting in squid-colonization.md
+- Maximum 50 characters
+- Use the imperative ("Change protocol" not "Changed..." or "I changed"...)
+- No period
 
-	Commit extended description can be used if needed. [Additional information about commit messages here](http://chris.beams.io/posts/git-commit/) and [here](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+Commit extended description can be used if needed. [Additional information about commit messages here](http://chris.beams.io/posts/git-commit/) and [here](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-1. Your Remote will now be 1 change ahead of the Upstream:
+
+Your Remote will now be 1 change ahead of the Upstream:
 
 ```
 This branch is 1 commit ahead of mjmlab:master.
 ```
 
-1. Pull Request. Now suggest this change to the lab.
+#### Pull Request. Now suggest this change to the lab.
 
 Note that if you have other protocols to edit, you can do all of them, and then include them all in a Pull Request.
 
-	1. Click on the button labeled "Pull Request".
-	1. You will see the changes suggested, with the new lines in Green and the old lines in Red.
-	1. You can also display the "Rich Diff", which will show the changes in a more granular way.
-	1. Click Create Pull Request, edit/add any information (again use the guidelines above for commit messages).
-	1. If you permission to merge changes into `mjmlab/protocols` then you will have the option to Merge Pull Request immediately. If not, then an owner on that account will be notified that your Pull Request is waiting.
-	1. Additional discussion can proceed about the Pull Request. You will automatically be notified of any discussion, and if you want to alert someone specifically you can include their GitHub username, as in this example. That person can then comment in on the proposed changes before they are merged.
+1. Click on the button labeled "Pull Request".
+1. You will see the changes suggested, with the new lines in Green and the old lines in Red.
+1. You can also display the "Rich Diff", which will show the changes in a more granular way.
+1. Click Create Pull Request, edit/add any information (again use the guidelines above for commit messages).
+1. If you permission to merge changes into `mjmlab/protocols` then you will have the option to Merge Pull Request immediately. If not, then an owner on that account will be notified that your Pull Request is waiting.
+1. Additional discussion can proceed about the Pull Request. You will automatically be notified of any discussion, and if you want to alert someone specifically you can include their GitHub username, as in this example. That person can then comment in on the proposed changes before they are merged.
 	
 	
-1. Dealing with the situation where your Remote repo (`mandel01/protocols`) is different from the lab Upstream repo (`mjmlab/protocols`).
+#### Dealing with the situation where your Remote repo (`mandel01/protocols`) is different from the lab Upstream repo (`mjmlab/protocols`).
 
 In this example there have been some changes made to the Upstream that are not in the Remote repo. 
 
@@ -255,7 +264,7 @@ In this example there have been some changes made to the Upstream that are not i
 This branch is 1 commit behind mjmlab:master.
 ```
 
-Note: Be sure that you do not lose anything that you have changed.
+Note: Be sure that you do not lose anything that you have changed (i.e., if your repo is **ahead** of the lab upstream repo). 
 
 We need to update our Remote repo so that it matches the lab repo, before we make any further changes. Surprisingly, this cannot really be done on GitHub and requires the following steps using a Local version of the repo. [Detailed help is here](https://help.github.com/articles/syncing-a-fork/) and the specific steps for this example are listed below:
 
