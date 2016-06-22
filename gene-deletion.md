@@ -46,9 +46,9 @@ Isolate a single recombinant-derived strain in which the allelic exchange vector
 ## Verify deletion constructs
 
 1. Screen for:
-- Absence of deletion DNA
-- New junction created by the deletion
-- Absence of plasmid backbone material (i.e., that you are not simply observing mutation of the cam cassette).
+  - Absence of deletion DNA
+  - New junction created by the deletion
+  - Absence of plasmid backbone material (i.e., that you are not simply observing mutation of the cam cassette).
 
 
 
