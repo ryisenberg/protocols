@@ -1,6 +1,7 @@
 # Mandel Lab Protocols
 
 ### Molecular Biology
+- [Gene Deletion in *V. fischeri*](gene-deletion.md)
 - [Gibson Assembly](gibson-assembly.md)
 - [dNTP stocks for PCR](molecular-dntps.md)
 
