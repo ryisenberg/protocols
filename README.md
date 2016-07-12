@@ -8,6 +8,8 @@
 ### Microbiology
 - [Colony-Forming Units (CFU), Counting](cfu-spots.md)
 - [Conjugation](conjugation.md)
+- [Competition in vitro](competition-in-vitro.md)
+- [Glycerol stocks](glycerol-stocks.md)
 
 ### Squid
 - [Colonization](squid-colonization.md)
