@@ -12,8 +12,8 @@ Tris recipe for buffering *V. fischeri* growth media.
 
 Amount | Reagent
 ------:|:-------
-135 g  | Tris-HCl
-23.0 g   | Tris base
+127 g  | Tris-HCl
+23.6 g | Tris base
 
 Stir until dissolved, adjust to pH 7.5, then adjust volume to 1L with dI H<sub>2</sub>O.
 
