@@ -23,7 +23,7 @@
 
 ## General information
 
-For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouring, until the media can be touched with bare hands. Add antibiotics if required. Stir for approximately 1 min, then pour.
+For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouring, until the media can be touched with bare hands. Add [antibiotics](antibiotics.md) if required. Stir for approximately 1 min, then pour.
 
 ## Rich media
 
