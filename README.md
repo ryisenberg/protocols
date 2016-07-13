@@ -6,6 +6,9 @@
 - [dNTP stocks for PCR](molecular-dntps.md)
 
 ### Microbiology
+- Media and Buffers Recipes
+  - [Media](media.md)
+  - [Buffers](buffers.md)
 - [Colony-Forming Units (CFU), Counting](cfu-spots.md)
 - [Conjugation](conjugation.md)
 - [Competition in vitro](competition-in-vitro.md)
