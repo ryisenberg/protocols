@@ -35,7 +35,7 @@ Amount | Reagent
 ------:|:-------
 25 g   | LB Broth powder
 10 g   | NaCl
-50 ml  | [Tris (1 M, pH 7.5)](../buffers.md#tris-1-m-ph-75)
+50 ml  | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75)
 950 ml | dI H<sub>2</sub>O
 
 *Note: Above is equivalent to the following (i.e. Tris-buffered LB with double salt)*
@@ -45,9 +45,8 @@ Amount | Reagent
 10 g   | Bacto-tryptone
 5 g    | Yeast extract
 20 g   | NaCl
-50 ml  | [Tris (1 M, pH 7.5)](../buffers.md#tris-1-m-ph-75)
+50 ml  | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75)
 to 1000 ml total | with dI H<sub>2</sub>O
-
 
 
 ### SWT
