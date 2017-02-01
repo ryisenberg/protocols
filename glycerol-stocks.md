@@ -8,7 +8,7 @@ A strain that is added to the laboratory strain database is assigned an MJM numb
 
 Strains that are in progress should be stored as a Red-capped glycerol stocks at -80°C in the lab member's personal box.  When they are confirmed to be correct, then they are assigned an MJM number and logged into the strain database.  They are then distributed to White- and Yellow-capped tubes and refrozen at -80°C.
 
-When possible, it is a **great** idea to prepare large numbers of tubes ready to go with glycerol. This improves sterile handling and avoids any barriers to saving important strains. Additionally, the strains can be autoclaved after glycerol addition to assure sterility.
+When possible, it is a **great** idea to prepare large numbers of tubes ready to go with glycerol. This improves sterile handling and avoids any barriers to saving important strains. Additionally, the tubes can be autoclaved after glycerol addition to assure sterility.
 
 ## Large-scale preparation of individual tubes, each containing 50% glycerol
 
@@ -20,7 +20,7 @@ When possible, it is a **great** idea to prepare large numbers of tubes ready to
 
 Mix well to distribute the viscous glycerol solution. Using a serological pipet, add the volume listed below to each tube. Slightly close the top on each tube but do not fully seal. Add autoclave tape to each rack and autoclave the racks. After cooling, seal each tube firmly and place on shelf.
 
-- WHITE (VWR 89125-500): Fill will 300 μl 50% glycerol.
+- WHITE (VWR 89125-500): Fill with 300 μl 50% glycerol.
 - YELLOW (VWR 89125-506): Fill with 300 μl 50% glycerol.
 - RED (VWR 89125-502): Fill with 600 μl 50% glycerol.
 
