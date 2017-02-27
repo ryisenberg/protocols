@@ -65,7 +65,7 @@ to 1000 ml total | with dI H<sub>2</sub>O
 
 ### LB
 
-`Luria-Bertani` / `Lysogeny Broth`
+[`Lysogeny Broth`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC321500/)
 
 Amount  | Reagent
 -------:|:-------
@@ -108,13 +108,13 @@ Filter, then add each filter-sterilized solutions:
 
 Amount | Reagent
 ------:|:-------
-1 ml   | K2HPO4 (5.8%)
-1 ml   | FeSO4 (10 mM)
+1 ml   | K<sub>2</sub>HPO<sub>4</sub> (5.8%)
+1 ml   | FeSO<sub>4</sub> (10 mM)
  |
 to 0.2% (w/v) final | *N*-acetyl-glucosamine as N+C-source
  | or
 to 0.2% (w/v) final | Carbon Source
-5 ml   | NH4Cl (20%)
+5 ml   | NH<sub>4</sub>Cl (20%)
 
 ## General media recipes
 
@@ -122,28 +122,36 @@ to 0.2% (w/v) final | Carbon Source
 
 `Defined seawater 2X`
 
-Note: This is defined sea water for minimal media and **not for animal incubation** (for the latter use Instant Ocean).
+Note: This is defined sea water for minimal media and **not for animal incubation** (for the latter use Instant Ocean). Final concentrations:
+- 100 mM MgSO<sub>4</sub>
+- 20 mM CaCl<sub>2</sub>
+- 600 mM NaCl
+- 20 mM KCl
 
-In a 2 L beaker add 1 L dI H2O and set aside.
+In a 2 L beaker add 1 L dI H<sub>2</sub>O and set aside.
 
-In three smaller beakers dissolve each of the constituent solutinos as described. Ensure they are completely dissolved, then add to the beaker above.
+In three smaller beakers dissolve each of the constituent solutions as described. Ensure they are completely dissolved, then add to the beaker above.
 
 Beaker | Reagent(s)         | Dissolve completely in
 :-:|:-----------------------|:-------
-1  | 49.5 g MgSO4•7H2O      | 250 ml dI H<sub>2</sub>O
-2  | 5.75 g CaCl2•7H2O      | 250 ml dI H<sub>2</sub>O
+1  | 49.5 g MgSO<sub>4</sub> • 7 H<sub>2</sub>O      | 250 ml dI H<sub>2</sub>O
+2  | 5.75 g CaCl<sub>2</sub> • 2 H<sub>2</sub>O      | 250 ml dI H<sub>2</sub>O
 3  | 70.25 g NaCl + 3 g KCl | 250 ml dI H<sub>2</sub>O
 
-Adjust total volume to 2 L with dI H<sub>2</sub>O. Filter sterilize and store at room temperature.  Lasts 1-2 months.
+Adjust total volume to 2 L with dI H<sub>2</sub>O. Filter sterilize and store at room temperature. Lasts 1-2 months.
 
 ### Glucose (20% v/v)
 
 In a 1 liter graduated cylinder mix:
 
-200 g             glucose
-800 ml             dH2O
+Amount | Reagent
+------:|:-------
+200 g  | glucose
+800 ml | dI H<sub>2</sub>O
 
-Cover with parafilm and invert multiple times to mix.  Dispense 100 ml aliquots into milk dilution bottles.
+Cover with parafilm and invert multiple times to mix.
+
+Dispense 100 ml aliquots into milk dilution bottles.
 
 Autoclave, store at room temperature.
 
@@ -214,6 +222,6 @@ MW = 190.19
 Amount | Reagent
 ------:|:-------
 1.14g  | DAP
-20 ml  | ddH2O
+20 ml  | ddH<sub>2</sub>O
 
 At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave. Vortex before adding to agar plates.
