@@ -1,6 +1,6 @@
 # Transformation in *Vibrio fischeri* using inducible *tfoX*-expressing vectors
 
-This protocol describes transformation of an antibiotic resistant cassette in *V. fischeri* using transient *tfoX* induction. The *V. fischeri* recipient expresses *tfoX* from the arabinose-inducible pLostfoX or pLostfoX-Kan vector; introduces the donor DNA and selects for its integration; and then releases selection for the vector to allow it to be lost. Diagnostic PCR is used to confirm incorporation of the cassette at the expected chromosomal locus.
+This protocol describes transformation of an antibiotic resistant cassette in *V. fischeri* using transient *tfoX* induction. The *V. fischeri* recipient expresses *tfoX* from the pLostfoX or pLostfoX-Kan vector; introduces the donor DNA and selects for its integration; and then releases selection for the vector to allow it to be lost. Diagnostic PCR is used to confirm incorporation of the cassette at the expected chromosomal locus.
 
 ### Choice of transformation vector
 
