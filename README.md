@@ -18,6 +18,7 @@
 
 ### Squid
 - [Colonization](squid-colonization.md)
+- [Colonization for INSeq](squid-colonization-inseq.md)
 
 ### Computational
 - [Git and GitHub](git-github.md)
