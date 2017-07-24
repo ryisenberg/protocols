@@ -110,9 +110,9 @@ Amount | Reagent
 ------:|:-------
 1 ml   | K<sub>2</sub>HPO<sub>4</sub> (5.8%)
 1 ml   | FeSO<sub>4</sub> (10 mM)
- |
+ .|.
 to 0.2% (w/v) final | *N*-acetyl-glucosamine as N+C-source
- | or
+ .| or
 to 0.2% (w/v) final | Carbon Source
 5 ml   | NH<sub>4</sub>Cl (20%)
 
