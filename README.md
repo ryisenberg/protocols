@@ -8,7 +8,7 @@
 ### Microbiology
 - Media and Buffers Recipes
   - [Media](media.md)
-  - [Buffers](buffers.md)
+  - [Buffers and Reagents](buffers.md)
 - [Antibiotics](antibiotics.md)
 - [Colony-Forming Units (CFU), Counting](cfu-spots.md)
 - [Conjugation](conjugation.md)
@@ -24,3 +24,11 @@
 
 ### Computational
 - [Git and GitHub](git-github.md)
+
+
+### Equipment
+- Gel Doc
+- QIAcube
+- Plate Reader
+- Leica EZ4 Steromicroscope
+- [Zeiss Axio Zoom V16 Microscope](zeiss_scope.md)
