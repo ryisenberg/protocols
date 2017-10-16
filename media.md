@@ -149,7 +149,7 @@ Amount | Reagent
 200 g  | glucose
 800 ml | dI H<sub>2</sub>O
 
-Cover with parafilm and invert multiple times to mix.
+Cover with parafilm and invert multiple times to mix. Adjust final volume to 1 L.
 
 Dispense 100 ml aliquots into milk dilution bottles.
 
