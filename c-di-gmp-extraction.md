@@ -1,6 +1,6 @@
 # Cyclic-di-GMP extraction
 
-Extraction buffer (store cold).
+Extraction buffer (store at -20°C, replace after 2 weeks).
 
 Reagent      | Amount
 ------------ | --------------
@@ -23,5 +23,3 @@ Formic acid  | 0.1 N
 1. Transfer the supernatant to a new 1.7 ml microfuge tube, and stored at -80°C.
 
 Protocol adapted from Chris Waters Lab, [Massie et al.](https://www.ncbi.nlm.nih.gov/pubmed/22802636).
-
-Question: store extraction buffer at 4 or -20?
