@@ -18,6 +18,10 @@
 - [Luminescence reading in a single tube luminometer](luminometer.md)
 - [Transformation using tfoX induction](tfox-transformation.md)
 
+### Lab Maintenece
+- [Preparing sterile supplies](preparing-sterile-lab-supplies.md)
+- [Shelf stocking](shelf-stocking-protocol.md)
+
 ### Squid
 - [Colonization](squid-colonization.md)
 - [Colonization for INSeq](squid-colonization-inseq.md)
@@ -25,8 +29,8 @@
 ### Computational
 - [Git and GitHub](git-github.md)
 
-
 ### Equipment
+- [Autoclave](autoclave.md)
 - Gel Doc
 - QIAcube
 - Plate Reader
