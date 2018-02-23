@@ -18,7 +18,7 @@
 	- [IPTG (100 mM)](#iptg-100-mm)
 	- [Xgal (20 mg/ml)](#xgal-20-mgml)
 	- [DAP (300 mM, 1000x)](#dap-300-mm-1000x)
-- [Making media](#making-media-protocols)
+- [Making media](media.md#making-media)
 
 <!-- /TOC -->
 
