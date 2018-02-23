@@ -275,9 +275,9 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
 
 ### Antibiotics
 
-* Antibiotic stocks are kept in the -20°C freezer in a labeled box
-* The numbers on the tubes of antibiotics refer to the concentration of antibiotic when the entire contents (1 mL) of the tube are added to 1 L of media (i.e. when you add a tube labeled Kan50 to 1 L of LB, you get LB-Kan50)
-  * If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS-Kan100, add 2 tubes of Kan50 to 1 L of LBS)
+* [Antibiotic stocks](antibiotics.md) are kept in the -20°C freezer in a labeled box
+* The numbers on the tubes of antibiotics refer to the concentration of antibiotic in mg/mL
+  * If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS-Kan100, add 2 tubes of Kan50 to 1 L of LBS); see table below
 * Antibiotics should be added to media AFTER autoclaving and after the media has cooled to a usable temperature (or else the antibiotics could degrade)
 * Fully thaw antibiotics and vortex just before adding them to media
 * Allow the media to stir for ~1 min after adding antibiotics
@@ -290,6 +290,6 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
 | Erythromycin (Erm)    | 5 ug/mL                          | 10 mg/uL            | 500 ul                             |
 | Kanamycin (Kan)       | 50 ug/mL                         | 50 mg/uL            | 1 mL                               |
 | Kanamycin (Kan)       | 50 ug/mL                         | 100 mg/uL           | 2 mL                               |
-| Tetracycline (Tet)    | 15 ug/mL                         | 15 mg/uL            | 1 mL                               |
-| Tetracycline (Tet)    | 5 ug/mL                          | 15 mg/uL            | 333 uL                             |
+| Tetracycline (Tet)    | 15 ug/mL                         | 10 mg/uL            | 1.5 mL                             |
+| Tetracycline (Tet)    | 5 ug/mL                          | 15 mg/uL            | 500 uL                             |
 | Carbenicillin (Carb)  | 100 ug/mL                        | 100 mg/uL           | 1 mL                               |
