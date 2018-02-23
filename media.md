@@ -268,7 +268,7 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
    * Make sure to put lid back plate on immediately after pouring
    * If bubbles end up in plate, pass flame from Bunsen burner over surface of media
 10. When all the media has been poured, immediately rinse out flask with hot water (so the residual media doesn't solidify), turn off the water bath, turn gas off of Bunsen burner
-11. Label the sides of the plates with permanant marker according to the guide at the plate pouring bench (i.e. LB is one black line)
+11. Label the sides of the plates with permanent marker according to the guide at the plate pouring bench (i.e. LB is one black line)
 12. Leave plates out at room temperature for 1-2 days to solidify and dry out along with a piece of tape labeled with the media type, date, and your initials
 13. After the plates are solidified, place them in a labeled plastic sleeve and place in the cold room on the appropriate shelf
 
