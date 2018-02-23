@@ -18,6 +18,7 @@
 	- [IPTG (100 mM)](#iptg-100-mm)
 	- [Xgal (20 mg/ml)](#xgal-20-mgml)
 	- [DAP (300 mM, 1000x)](#dap-300-mm-1000x)
+- [Making media](#making-media-protocols)
 
 <!-- /TOC -->
 
@@ -31,35 +32,35 @@ For plates, add 15 g Agar and a stir bar. Cool in the 55 °C bath prior to pouri
 
 `LB Salt`
 
-Amount | Reagent
-------:|:-------
-25 g   | LB Broth powder
-10 g   | NaCl
-50 ml  | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75)
-950 ml | dI H<sub>2</sub>O
+| Amount | Reagent                                         |
+|-------:|:------------------------------------------------|
+|   25 g | LB Broth powder                                 |
+|   10 g | NaCl                                            |
+|  50 ml | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75) |
+| 950 ml | dI H<sub>2</sub>O                               |
 
 *Note: Above is equivalent to the following (i.e. Tris-buffered LB with double salt)*
 
-Amount | Reagent
-------:|:-------
-10 g   | Bacto-tryptone
-5 g    | Yeast extract
-20 g   | NaCl
-50 ml  | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75)
-to 1000 ml total | with dI H<sub>2</sub>O
+|           Amount | Reagent                                         |
+|-----------------:|:------------------------------------------------|
+|             10 g | Bacto-tryptone                                  |
+|              5 g | Yeast extract                                   |
+|             20 g | NaCl                                            |
+|            50 ml | [Tris (1 M, pH 7.5)](buffers.md#tris-1-m-ph-75) |
+| to 1000 ml total | with dI H<sub>2</sub>O                          |
 
 
 ### SWT
 
 `Seawater tryptone`
 
-Amount | Reagent
-------:|:-------
-5 g    | Bacto-Tryptone
-3 g    | Yeast Extract
-6 ml   | 50% Glycerol
-700 ml | Instant Ocean [1]
-to 1000 ml total | with dI H<sub>2</sub>O
+|           Amount | Reagent                |
+|-----------------:|:-----------------------|
+|              5 g | Bacto-Tryptone         |
+|              3 g | Yeast Extract          |
+|             6 ml | 50% Glycerol           |
+|           700 ml | Instant Ocean [1]      |
+| to 1000 ml total | with dI H<sub>2</sub>O |
 
 [1] Dispense from an “E” tripour into a laboratory graduated cylinder or beaker. Ensure that media glassware does not touch squid “E” areas or Instant Ocean source barrels.
 
@@ -67,29 +68,29 @@ to 1000 ml total | with dI H<sub>2</sub>O
 
 [`Lysogeny Broth`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC321500/)
 
-Amount  | Reagent
--------:|:-------
-25 g    | LB Broth powder
-1000 ml | dI H<sub>2</sub>O
+|  Amount | Reagent           |
+|--------:|:------------------|
+|    25 g | LB Broth powder   |
+| 1000 ml | dI H<sub>2</sub>O |
 
 *Note: Above is equivalent to:*
 
-Amount | Reagent
-------:|:-------
-10 g   | Bacto-tryptone
-5 g    | Yeast extract
-10 g   | NaCl
-to 1000 ml total | with dI H<sub>2</sub>O
+|           Amount | Reagent                |
+|-----------------:|:-----------------------|
+|             10 g | Bacto-tryptone         |
+|              5 g | Yeast extract          |
+|             10 g | NaCl                   |
+| to 1000 ml total | with dI H<sub>2</sub>O |
 
 
 ### BHI
 
 `Brain Heart Infusion`
 
-Amount | Reagent
-------:|:-------
-37 g   | Brain Heart Infusion powder
-to 1000 ml total | with dI H<sub>2</sub>O
+|           Amount | Reagent                     |
+|-----------------:|:----------------------------|
+|             37 g | Brain Heart Infusion powder |
+| to 1000 ml total | with dI H<sub>2</sub>O      |
 
 
 ## Minimal Media
@@ -98,23 +99,23 @@ to 1000 ml total | with dI H<sub>2</sub>O
 
 Mix the following:
 
-Amount | Reagent
-------:|:-------
-50 ml  | Tris base, pH 7.5 (1M)
-500 ml | [DSW (2X)](#dsw-2x)
-450 ml | dI H<sub>2</sub>O
+| Amount | Reagent                |
+|-------:|:-----------------------|
+|  50 ml | Tris base, pH 7.5 (1M) |
+| 500 ml | [DSW (2X)](#dsw-2x)    |
+| 450 ml | dI H<sub>2</sub>O      |
 
 Filter, then add each filter-sterilized solutions:
 
-Amount | Reagent
-------:|:-------
-1 ml   | K<sub>2</sub>HPO<sub>4</sub> (5.8%)
-1 ml   | FeSO<sub>4</sub> (10 mM)
- .|.
-to 0.2% (w/v) final | *N*-acetyl-glucosamine as N+C-source
- .| or
-to 0.2% (w/v) final | Carbon Source
-5 ml   | NH<sub>4</sub>Cl (20%)
+|              Amount | Reagent                              |
+|--------------------:|:-------------------------------------|
+|                1 ml | K<sub>2</sub>HPO<sub>4</sub> (5.8%)  |
+|                1 ml | FeSO<sub>4</sub> (10 mM)             |
+|                   . | .                                    |
+| to 0.2% (w/v) final | *N*-acetyl-glucosamine as N+C-source |
+|                   . | or                                   |
+| to 0.2% (w/v) final | Carbon Source                        |
+|                5 ml | NH<sub>4</sub>Cl (20%)               |
 
 ## General media recipes
 
@@ -132,11 +133,11 @@ In a 2 L beaker add 1 L dI H<sub>2</sub>O and set aside.
 
 In three smaller beakers dissolve each of the constituent solutions as described. Ensure they are completely dissolved, then add to the beaker above.
 
-Beaker | Reagent(s)         | Dissolve completely in
-:-:|:-----------------------|:-------
-1  | 49.5 g MgSO<sub>4</sub> • 7 H<sub>2</sub>O      | 250 ml dI H<sub>2</sub>O
-2  | 5.75 g CaCl<sub>2</sub> • 2 H<sub>2</sub>O      | 250 ml dI H<sub>2</sub>O
-3  | 70.25 g NaCl + 3 g KCl | 250 ml dI H<sub>2</sub>O
+| Beaker | Reagent(s)                                 | Dissolve completely in   |
+|:------:|:-------------------------------------------|:-------------------------|
+|   1    | 49.5 g MgSO<sub>4</sub> • 7 H<sub>2</sub>O | 250 ml dI H<sub>2</sub>O |
+|   2    | 5.75 g CaCl<sub>2</sub> • 2 H<sub>2</sub>O | 250 ml dI H<sub>2</sub>O |
+|   3    | 70.25 g NaCl + 3 g KCl                     | 250 ml dI H<sub>2</sub>O |
 
 Adjust total volume to 2 L with dI H<sub>2</sub>O. Filter sterilize and store at room temperature. Lasts 1-2 months.
 
@@ -144,10 +145,10 @@ Adjust total volume to 2 L with dI H<sub>2</sub>O. Filter sterilize and store at
 
 In a 1 liter graduated cylinder mix:
 
-Amount | Reagent
-------:|:-------
-200 g  | glucose
-800 ml | dI H<sub>2</sub>O
+| Amount | Reagent           |
+|-------:|:------------------|
+|  200 g | glucose           |
+| 800 ml | dI H<sub>2</sub>O |
 
 Cover with parafilm and invert multiple times to mix. Adjust final volume to 1 L.
 
@@ -160,10 +161,10 @@ Autoclave, store at room temperature.
 
 In a 1 liter graduated cylinder mix:
 
-Amount | Reagent
-------:|:-------
-500 ml | glycerol
-500 ml | dI H<sub>2</sub>O
+| Amount | Reagent           |
+|-------:|:------------------|
+| 500 ml | glycerol          |
+| 500 ml | dI H<sub>2</sub>O |
 
 Cover with parafilm and invert multiple times to mix. Glycerol is very viscous, so make sure it mixes completely and does not stick to the container. Dispense 100 ml aliquots into milk dilution bottles and autoclave.
 
@@ -171,10 +172,10 @@ Cover with parafilm and invert multiple times to mix. Glycerol is very viscous, 
 
 In a 1 liter graduated cylinder mix:
 
-Amount | Reagent
-------:|:-------
-300 ml | dI H<sub>2</sub>O
-700 ml | Dissolved Instant Ocean at approximately 33-38 ‰
+| Amount | Reagent                                          |
+|-------:|:-------------------------------------------------|
+| 300 ml | dI H<sub>2</sub>O                                |
+| 700 ml | Dissolved Instant Ocean at approximately 33-38 ‰ |
 
 Cover with parafilm and invert multiple times to mix.  Dispense 100 ml aliquots into milk dilution bottles and autoclave.
 
@@ -184,10 +185,10 @@ Note: Solution is not checked for salinity.  The purpose of the 70% solution is 
 
 `isopropyl-β-D-thiogalactopyranoside`
 
-Amount | Reagent
-------:|:-------
-238 mg | IPTG
-10 ml  | ddH<sub>2</sub>O
+| Amount | Reagent          |
+|-------:|:-----------------|
+| 238 mg | IPTG             |
+|  10 ml | ddH<sub>2</sub>O |
 
 Filter sterilize, then store 0.5 ml aliquots at -20 °C.
 
@@ -199,10 +200,10 @@ If spreading on plate, consider that a typical plate agar volume is 25 ml. Dispe
 
 `5-bromo-4-chloro-3-indolyl-β-D-galactoside`
 
-Amount | Reagent
-------:|:-------
-200 mg | Xgal
-10 ml  | *N,N*-dimethylformamide (Dispense in hood)
+| Amount | Reagent                                    |
+|-------:|:-------------------------------------------|
+| 200 mg | Xgal                                       |
+|  10 ml | *N,N*-dimethylformamide (Dispense in hood) |
 
 Mix in screw-cap glass tube, or on a small scale in a polypropylene microfuge tube.
 
@@ -216,12 +217,67 @@ The most uniform distribution in an agar plate is accomplished by adding Xgal to
 
 ### DAP (300 mM, 1000x)
 
-`Diaminopimelic acid`  
+`Diaminopimelic acid`
 MW = 190.19
 
-Amount | Reagent
-------:|:-------
-1.14g  | DAP
-20 ml  | ddH<sub>2</sub>O
+| Amount | Reagent          |
+|-------:|:-----------------|
+|  1.14g | DAP              |
+|  20 ml | ddH<sub>2</sub>O |
 
 At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave. Vortex before adding to agar plates.
+
+## Making media
+
+# Making media protocols
+
+## General information
+
+* Wear gloves while making media
+* When making media to be autoclaved, make sure the volume of the container is twice that of the amount of media you are autoclaving (i.e. if you are making 1 L of media, make it in a 2 L flask to autoclave it)
+  * Too small of a container will result in boil-over
+* Clean the media preparation area when finished making media
+  * Dust off the scale, make sure its doors are closed
+  * Wipe down bench top with wet paper towel (residual media gets sticky)
+
+## Liquid media
+1. Make [media](/media-and-buffer-recipes.md#media-recipies) and measure out in 100 mL aliquots into milk dilution bottles
+2. Put lids on bottles loosely (don't close all the way)
+3. Place autoclave tape on seam between lid and bottle
+4. Put bottles in square metal cage
+5. [Autoclave](/protocols/autoclave-protocol.md)
+6. After autoclaving, let bottles cool at room temperature until you can touch them with bare hands, then tighten the caps
+   * Important to tighten caps after cooled, or else they will get stuck on
+7. Put media away on designated shelf
+
+## Plates
+1. Make media in appropriate sized flask with stir bar
+2. Add 15 g agar per 1 L of media (makes 1.5% agar plates)
+3. Cover top of flask with aluminum foil and place autoclave tape on top
+4. Turn on 55°C water bath
+4. [Autoclave](autoclave.md)
+5. After autoclaving, immediately place media in 55°C water bath and wait until cool enough to touch with bare hands
+6. When ready to pour plates, place flask on stir plate and stir at low speed (so bubbles aren't produced)
+   * If making plates with [antibiotics](media.md#antibiotics), add antibiotic to flask at this point and let stir for 1 min
+7. Set up plates for pouring; keep the plastic sleeve the plates come in to store the poured plates
+   * Use scissors to open sleeve of plates closest to the top seam (to get the most length out of the sleeve for reuse)
+   * Stack plates in sets of 5 and line up on bench top
+8. Light Bunsen burner
+9. Take flask off of stir plate and pour media into plates
+   * Pour just enough to cover the bottom of the plate
+   * Pour gently so as not to create bubbles
+   * Make sure to put lid back plate on immediately after pouring
+   * If bubbles end up in plate, pass flame from Bunsen burner over surface of media
+10. When all the media has been poured, immediately rinse out flask with hot water (so the residual media doesn't solidify), turn off the water bath, turn gas off of Bunsen burner
+11. Label the sides of the plates with permanant marker according to the guide at the plate pouring bench (i.e. LB is one black line)
+12. Leave plates out at room temperature to solidify along with a piece of tape labeled with the media type, date, and your initials
+13. After the plates are solidified, place them in a labeled plastic sleeve and place in the cold room on the appropriate shelf
+
+## Antibiotics
+
+* Antibiotic stocks are kept in the -20°C freezer in a labeled styrofoam box
+* The numbers on the tubes of antibiotics refer to the concentration of antibiotic when the entire contents (1 mL) of the tube are added to 1 L of media (i.e. when you add a tube labeled Kan50 to 1 L of LB, you get LB Kan50)
+  * If you need a concentration of antibiotic that is not indicated on a tube, then you'll have to do some math (i.e. to make LBS Kan100, add 2 tubes of Kan50 to 1 L of LBS)
+* Antibiotics should be added to media AFTER autoclaving and after the media has cooled to a usable temperature (or else the antibiotics could degrade)
+* Fully thaw antibiotics just before adding them to media
+* Allow the media to stir for ~1 min after adding antibiotics
