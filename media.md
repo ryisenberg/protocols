@@ -288,7 +288,7 @@ At this concentration, the DAP will not go into solution, so aliquot quickly aft
 | Erythromycin (Erm)    | 150 ug/mL                        | N/A                 | 0.150 g of powder                  |
 | Erythromycin (Erm)    | 5 ug/mL                          | 10 mg/uL            | 500 ul                             |
 | Kanamycin (Kan)       | 50 ug/mL                         | 50 mg/uL            | 1 mL                               |
-| Kanamycin (Kan)       | 50 ug/mL                         | 100 mg/uL           | 2 mL                               |
+| Kanamycin (Kan)       | 100 ug/mL                         | 50 mg/uL           | 2 mL                               |
 | Tetracycline (Tet)    | 15 ug/mL                         | 10 mg/uL            | 1.5 mL                             |
-| Tetracycline (Tet)    | 5 ug/mL                          | 15 mg/uL            | 500 uL                             |
+| Tetracycline (Tet)    | 5 ug/mL                          | 10 mg/uL            | 500 uL                             |
 | Carbenicillin (Carb)  | 100 ug/mL                        | 100 mg/uL           | 1 mL                               |
