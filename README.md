@@ -24,6 +24,7 @@
 
 ### Squid
 - [Colonization](squid-colonization.md)
+- [Colonization for aggregates](squid-colonization-aggregates.md)
 - [Colonization for INSeq](squid-colonization-inseq.md)
 
 ### Computational
