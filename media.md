@@ -227,7 +227,7 @@ MW = 190.19
 |  1.14g | DAP              |
 |  20 ml | ddH<sub>2</sub>O |
 
-At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave. Vortex before adding to agar plates.
+At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave. Vortex before adding to media. Store at room temp. 
 
 ## Making media
 
