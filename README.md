@@ -21,7 +21,7 @@
 - [Luminescence reading in a single tube luminometer](luminometer.md)
 - [Transformation using tfoX induction](tfox-transformation.md)
 
-### Lab Maintenece
+### Lab Maintenance
 - [Preparing sterile supplies](preparing-sterile-lab-supplies.md)
 - [Shelf stocking](shelf-stocking-protocol.md)
 
