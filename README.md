@@ -5,6 +5,9 @@
 - [Gibson Assembly](gibson-assembly.md)
 - [dNTP stocks for PCR](molecular-dntps.md)
 
+### Protein
+- [Trichloroacetic acid (TCA) precipitation](tca.precipitation.md)
+
 ### Microbiology
 - Media and Buffers Recipes
   - [Media](media.md)
