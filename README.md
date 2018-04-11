@@ -7,6 +7,7 @@
 
 ### Protein
 - [Trichloroacetic acid (TCA) precipitation](tca.precipitation.md)
+- [Bioinformatics Prediction Tools](protein-domain-prediction.md)
 
 ### Microbiology
 - Media and Buffers Recipes
