@@ -2,11 +2,12 @@
 
 Extraction buffer (store at -20°C, replace after 2 weeks).
 
-Reagent      | Amount
------------- | --------------
-Acetonitrile | 40% (v/v)
-Methanol     | 40% (v/v)
-Formic acid  | 0.1 N
+Reagent      | Amount        | E.g. 10mL solution
+------------ | --------------|--------------
+Acetonitrile | 40% (v/v)     | 4mL
+Methanol     | 40% (v/v)     | 4mL
+Formic acid  | 0.1 N         | 400uL
+dI H<sub>2</sub>O | adjust to desired volume | 1.6mL 
 
 1. Grow strains overnight at 25°C, shaking in LBS.
 
@@ -20,6 +21,6 @@ Formic acid  | 0.1 N
 
 1. Centrifuge at 22,000 x g for 5 minutes to pellet the cellular debris (centrifuge and extract supernatant in batches of ≤ 10).
 
-1. Transfer the supernatant to a new 1.7 ml microfuge tube, and stored at -80°C.
+1. Transfer the supernatant to a new 1.7 ml microfuge tube, and store at -80°C.
 
 Protocol adapted from Chris Waters Lab, [Massie et al.](https://www.ncbi.nlm.nih.gov/pubmed/22802636).
