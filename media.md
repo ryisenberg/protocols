@@ -230,6 +230,20 @@ MW = 190.19
 At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave, then store at room temp.  
 Vortex before adding to media.  
 
+### Thymidine (100 mM, 333x)
+
+`Deoxythymidine`
+MW = 242.231
+
+| Amount | Reagent          |
+|-------:|:-----------------|
+| 242 mg | Thymidine              |
+|  10 ml | ddH<sub>2</sub>O |
+
+Filter sterilize, then store 1.0 ml aliquots at -20 °C.  
+
+When adding to autoclaved media prior to pouring, add 3 μl IPTG solution per 1 ml agar for a final concentration of 0.3 mM.
+
 ## Making media
 
 ### General information
