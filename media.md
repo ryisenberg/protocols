@@ -18,6 +18,7 @@
 	- [IPTG (100 mM)](#iptg-100-mm)
 	- [Xgal (20 mg/ml)](#xgal-20-mgml)
 	- [DAP (300 mM, 1000x)](#dap-300-mm-1000x)
+	- [Thymidine (100 mM, 333x)](#thymidine-100-mm-333x)
 - [Making media](media.md#making-media)
 
 <!-- /TOC -->
@@ -242,7 +243,7 @@ MW = 242.231
 
 Filter sterilize, then store 1.0 ml aliquots at -20 °C.  
 
-When adding to autoclaved media prior to pouring, add 3 μl IPTG solution per 1 ml agar for a final concentration of 0.3 mM.
+When adding to autoclaved media prior to pouring, add 3 μl Thymidine solution per 1 ml agar for a final concentration of 0.3 mM.
 
 ## Making media
 
