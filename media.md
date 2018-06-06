@@ -18,6 +18,7 @@
 	- [IPTG (100 mM)](#iptg-100-mm)
 	- [Xgal (20 mg/ml)](#xgal-20-mgml)
 	- [DAP (300 mM, 1000x)](#dap-300-mm-1000x)
+	- [Thymidine (100 mM, 333x)](#thymidine-100-mm-333x)
 - [Making media](media.md#making-media)
 
 <!-- /TOC -->
@@ -229,6 +230,20 @@ MW = 190.19
 
 At this concentration, the DAP will not go into solution, so aliquot quickly after mixing. Autoclave, then store at room temp.  
 Vortex before adding to media.  
+
+### Thymidine (100 mM, 333x)
+
+`Deoxythymidine`
+MW = 242.231
+
+| Amount | Reagent          |
+|-------:|:-----------------|
+| 242 mg | Thymidine              |
+|  10 ml | ddH<sub>2</sub>O |
+
+Filter sterilize, then store 1.0 ml aliquots at -20 °C.  
+
+When adding to autoclaved media prior to pouring, add 3 μl Thymidine solution per 1 ml agar for a final concentration of 0.3 mM.
 
 ## Making media
 
