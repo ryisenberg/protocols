@@ -10,6 +10,7 @@
 - [Trichloroacetic acid (TCA) precipitation](tca.precipitation.md)
 - [Bioinformatics Prediction Tools](protein-domain-prediction.md)
 - [SDS-Page](sds-page.md)
+- [Immunoblotting](immunoblotting.md)
 
 ### Microbiology
 - Media and Buffers Recipes
