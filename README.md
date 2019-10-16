@@ -36,6 +36,7 @@
 - [Colonization](squid-colonization.md)
 - [Colonization for aggregates](squid-colonization-aggregates.md)
 - [Colonization for INSeq](squid-colonization-inseq.md)
+- [Competition assay](squid-competitions.md)
 
 ### Computational
 - [Git and GitHub](git-github.md)
