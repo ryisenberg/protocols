@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/53515435.svg)](https://zenodo.org/badge/latestdoi/53515435)
 
+### Safety Plan
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Safety plan for COVID-19, Updated 2020-03-16](safety-covid-19.md)
+
 ### Molecular Biology
 - [Gene Deletion in *V. fischeri*](gene-deletion.md)
 - [Gibson Assembly](gibson-assembly.md)
