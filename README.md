@@ -2,9 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/53515435.svg)](https://zenodo.org/badge/latestdoi/53515435)
 
-### Safety Plan
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Lab safety plan, Updated 2020-06-05](safety-covid-19.md)
-
 ### Molecular Biology
 - [Gene Deletion in *V. fischeri*](gene-deletion.md)
 - [Gibson Assembly](gibson-assembly.md)
@@ -44,6 +41,9 @@
 
 ### Computational
 - [Git and GitHub](git-github.md)
+
+### Writing
+- [Style and Writing Guide](style.md)
 
 ### Equipment
 - [Autoclave](autoclave.md)
