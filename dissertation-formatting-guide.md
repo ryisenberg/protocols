@@ -1,5 +1,7 @@
 # UW-Madison PhD Dissertation Formatting Guide
 
+Example dissertation Word Doc: [dissertation-formatting-example.docx](https://github.com/ryisenberg/protocols/files/13604272/dissertation-formatting-example.docx)
+
 ## Starting Notes
 *	Congrats, almost-doctor, you’ve finished writing your dissertation! Now you need to format it so it meets submission standards.
 *	Here’s a guide for formatting your dissertation in Microsoft Word. You will want to do this in Word, even though you might have written it in Google Docs. Page numbering in Google Docs is not fun.
